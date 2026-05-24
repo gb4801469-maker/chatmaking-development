@@ -1,0 +1,6 @@
+{
+  "name": "Advanced AI Assistant",
+  "description": "An interactive, feature-rich ChatGPT-style AI playground with 10 specialized assistant modes for coding, study tutoring, writing, and business brainstorming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
